@@ -1,27 +1,23 @@
-[![Gymnasium Logo](https://cdn.rawgit.com/gymnasium/gymnasium.github.io/master/assets/GYM-logo.svg)](http://thegymnasium.com)
+[![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
-
-# UX FUNDAMENTALS
+# RESPONSIVE WEB DESIGN
 
 **A free online course at the [Gymnasium](http://thegymnasium.com)**
 
-Learn how to apply user-centered design principles to improve your website and mobile app design. A must-take course for anyone working in web design and development.
+In this course, you’ll learn best practices for building responsive websites that adapt to different devices and user behaviors.
 
 **SKILLS COVERED**
-
-- User research
-- Wireframing and prototyping
-- User testing
+- HTML5 and CSS3
+- Responsive layout
+- Mobile First strategies
 - And more…
 
 **THIS COURSE IS FOR**
+- Designers with coding chops
+- Front-End Developers
 
-- Web Designers
-- Creatives
-- UX Designers
-- Anyone who works on UX projects
 
-### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/103/0/about)
+### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/101/0/about)
 
 ---
 
@@ -39,5 +35,4 @@ Our courses are all self-paced and taught by experienced practitioners with a pa
 
 ### Career Opportunities
 
-Once you finish a course, you will be able to use your new skills in your current role, or use them to land a new job. [**We can even help with that!**](http://aquent.com/find-work/?utm_source=thegymnasium&utm_medium=github&utm_campaign=readmejobs)
-
+Once you finish a course, you will be able to use your new skills in your current role, or use them to land a new job. **[We can even help with that!](http://aquent.com/find-work/?utm_source=thegymnasium&utm_medium=github&utm_campaign=readmejobs)**
