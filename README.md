@@ -1,23 +1,25 @@
 [![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
-# RESPONSIVE WEB DESIGN
+# UX FUNDAMENTALS
 
 **A free online course at the [Gymnasium](http://thegymnasium.com)**
 
-In this course, you’ll learn best practices for building responsive websites that adapt to different devices and user behaviors.
+Learn how to apply user-centered design principles to improve your website and mobile app design. A must-take course for anyone working in web design and development.
 
 **SKILLS COVERED**
-- HTML5 and CSS3
-- Responsive layout
-- Mobile First strategies
+- User research
+- Wireframing and prototyping
+- User testing
 - And more…
 
 **THIS COURSE IS FOR**
-- Designers with coding chops
-- Front-End Developers
+- Web Designers
+- Creatives
+- UX Designers
+- Anyone who works on UX projects
 
 
-### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/101/0/about)
+### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/103/0/about)
 
 ---
 
